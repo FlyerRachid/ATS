@@ -3,7 +3,7 @@ from odoo import http
 
 
 class Flyer(http.Controller):
-    @http.route('/flyer', auth='public')
+    @http.route('/flyerrrrrrr', auth='public')
     def index(self, **kw):
         return "Hello, flyer"
 
